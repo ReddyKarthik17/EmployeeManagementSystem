@@ -1,0 +1,4 @@
+*.class
+*.dat
+bin/
+.settings/
